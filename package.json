@@ -1,0 +1,24 @@
+{
+  "name": "cloudskybox",
+  "version": "1.0.0",
+  "description": "a 3D interactive cloud space. Hooray!",
+  "main": "index.js",
+  "dependencies": {
+    "three-orbit-controls": "^82.1.0",
+    "three": "^0.113.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonklee89/cloudSkybox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonklee89/cloudSkybox/issues"
+  },
+  "homepage": "https://github.com/jasonklee89/cloudSkybox#readme"
+}
